@@ -1,0 +1,17 @@
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionNetworking.deps.json
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionNetworking.dll
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionNetworking.pdb
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionModel.dll
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionServices.dll
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionModel.pdb
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\bin\Debug\net6.0-windows\CompetitionServices.pdb
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.csproj.AssemblyReference.cache
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.AssemblyInfoInputs.cache
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.AssemblyInfo.cs
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.csproj.CoreCompileInputs.cache
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.csproj.CopyComplete
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.dll
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\refint\CompetitionNetworking.dll
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\CompetitionNetworking.pdb
+C:\Users\talpo\Desktop\Csharp\mpp-proiect-csharp-DariusTalpos\MPP-C#\CompetitionNetworking\obj\Debug\net6.0-windows\ref\CompetitionNetworking.dll

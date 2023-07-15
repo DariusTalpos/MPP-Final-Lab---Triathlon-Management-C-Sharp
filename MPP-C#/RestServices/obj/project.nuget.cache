@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5xP6CCAnUKjN32O4OUwrepV69J9QGq39jXvCSgOi6koh+jb35tg5ntWkScm1e4BJKPerJI0uLLNsb7xLG/Lnw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\RestServices\\RestServices.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project CompetitionModel is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project CompetitionModel supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "CompetitionModel",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

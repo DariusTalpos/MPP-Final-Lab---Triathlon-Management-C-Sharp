@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CompetitionModel\CompetitionModel.csproj" />
+    <ProjectReference Include="..\CompetitionNetworking\CompetitionNetworking.csproj" />
+    <ProjectReference Include="..\CompetitionPersistence\CompetitionPersistence.csproj" />
+    <ProjectReference Include="..\CompetitionServices\CompetitionServices.csproj" />
+  </ItemGroup>
+
+</Project>

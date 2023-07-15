@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MPP-C#",
+    "\\MPP-C#\\CompetitionClient",
+    "\\MPP-C#\\CompetitionNetworking",
+    "\\MPP-C#\\CompetitionNetworking\\networking",
+    "\\MPP-C#\\CompetitionNetworking\\networking\\protocol",
+    "\\MPP-C#\\CompetitionServer",
+    "\\MPP-C#\\CompetitionServices",
+    "\\MPP-C#\\CompetitionServices\\services",
+    "\\MPP-C#\\RestServices"
+  ],
+  "SelectedNode": "\\MPP-C#\\CompetitionClient\\StartClient.cs",
+  "PreviewInSolutionExplorer": false
+}

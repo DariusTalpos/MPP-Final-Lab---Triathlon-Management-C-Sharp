@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CompetitionClient/1.0.0": {
+        "dependencies": {
+          "CompetitionModel": "1.0.0",
+          "CompetitionNetworking": "1.0.0",
+          "CompetitionServices": "1.0.0"
+        },
+        "runtime": {
+          "CompetitionClient.dll": {}
+        }
+      },
+      "CompetitionModel/1.0.0": {
+        "runtime": {
+          "CompetitionModel.dll": {}
+        }
+      },
+      "CompetitionNetworking/1.0.0": {
+        "dependencies": {
+          "CompetitionModel": "1.0.0",
+          "CompetitionServices": "1.0.0"
+        },
+        "runtime": {
+          "CompetitionNetworking.dll": {}
+        }
+      },
+      "CompetitionServices/1.0.0": {
+        "dependencies": {
+          "CompetitionModel": "1.0.0"
+        },
+        "runtime": {
+          "CompetitionServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompetitionClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompetitionModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompetitionNetworking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompetitionServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

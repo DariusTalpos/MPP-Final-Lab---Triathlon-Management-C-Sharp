@@ -1,0 +1,284 @@
+2023-03-22 18:35:15,439 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:35:58,566 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:36:50,680 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:37:06,002 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:49:47,438 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:50:32,575 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:51:55,124 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:54:38,487 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:55:05,860 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:55:23,178 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 18:56:08,399 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:04:52,504 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:05:54,573 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:06:30,907 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:06:53,350 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:08:35,155 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:51:28,219 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-22 19:51:59,571 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>saving task {}</format><args>{MPP_C_.domain.Participant}</args></log4net.Error>
+2023-03-25 17:05:18,975 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-25 17:05:53,516 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-25 17:06:20,883 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-25 17:10:50,787 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-25 17:13:07,921 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-25 19:40:45,350 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-25 21:16:31,172 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-26 00:32:25,295 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-29 10:56:16,766 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-29 11:01:16,693 [1] INFO ParticipantDBRepo - <log4net.Error>Exception during StringFormat: Input string was not in a correct format. <format>Exiting with {}</format><args>{System.Collections.Generic.List`1[MPP_C_.domain.Participant]}</args></log4net.Error>
+2023-03-29 11:05:26,046 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-04 22:30:05,944 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-04 22:53:46,427 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-04 22:55:19,669 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-04 23:14:54,456 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:03:00,579 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:03:32,469 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:08:29,951 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:10:06,228 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:29:14,116 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:30:18,179 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:49:40,530 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:50:16,123 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 00:51:17,925 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 02:05:28,809 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 02:05:28,883 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 02:55:25,309 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 02:55:25,368 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 02:55:25,370 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 02:58:52,040 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 02:58:52,124 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 02:58:52,129 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 08:30:34,301 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 08:30:34,394 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 08:30:34,399 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 08:43:29,775 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 08:43:29,856 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 08:43:29,861 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 08:43:33,755 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 09:53:37,467 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 09:53:37,565 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 09:53:37,571 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 09:58:47,544 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 09:58:47,617 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 09:58:47,620 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 09:59:44,623 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 09:59:44,706 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 09:59:44,709 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:01:24,653 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:01:24,736 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:01:24,740 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:02:01,262 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:02:03,937 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:02:06,032 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:02:07,731 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:02:21,197 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:02:24,939 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:04:24,467 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:04:24,556 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:04:24,559 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:04:29,997 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:06:33,398 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:06:33,479 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:06:33,483 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:06:38,061 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:11:54,231 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:11:54,286 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:11:54,288 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:11:56,495 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:23:34,731 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:23:34,784 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:23:34,786 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:23:45,147 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:34:56,803 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:34:56,859 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:34:56,861 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:36:08,706 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:36:08,767 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:36:08,770 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:36:19,329 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 10:36:20,954 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:38:08,567 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:38:08,620 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:38:08,622 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:38:10,929 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:39:22,091 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 10:39:22,140 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:39:22,142 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 10:39:23,579 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:39:25,691 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 10:39:25,691 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:27:47,374 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 11:27:47,420 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:27:47,423 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:27:54,616 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:28:11,600 [1] INFO RoundDBRepo - saving task Id: 0; Name: ZZZ
+2023-04-05 11:29:52,354 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 11:29:52,404 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:29:52,407 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:29:53,588 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:32:15,624 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 11:32:15,664 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:32:15,666 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:32:17,227 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:33:04,781 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 11:33:04,835 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:33:04,837 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:33:06,136 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:33:23,529 [1] INFO RoundDBRepo - Exiting with Id: 6; Name: ZZZ
+2023-04-05 11:33:23,538 [1] INFO ScoreDBRepo - saving task Round: Id: 6; Name: ZZZ/ Participant: Arcueid Brunestud/ Points: 200
+2023-04-05 11:34:50,650 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 11:34:50,701 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:34:50,703 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:34:52,752 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:35:08,362 [1] INFO RoundDBRepo - Exiting with Id: 6; Name: ZZZ
+2023-04-05 11:35:08,367 [1] INFO ScoreDBRepo - saving task Round: Id: 6; Name: ZZZ/ Participant: Arcueid Brunestud/ Points: 200
+2023-04-05 11:35:08,380 [1] INFO ParticipantDBRepo - updating task Arcueid Brunestud
+2023-04-05 11:35:11,223 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:35:13,276 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 11:35:13,276 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 11:35:18,387 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 13:31:33,575 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:39,779 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:40,155 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:40,595 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:40,755 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:40,898 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,039 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,190 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,307 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,457 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,610 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,770 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:41,911 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,079 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,228 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,374 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,536 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,676 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,814 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:42,955 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:43,120 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:43,276 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:43,418 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:43,560 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:43,710 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:43,859 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:31:44,004 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:32:25,567 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:41:42,350 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 13:41:42,410 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 14:06:24,680 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 14:06:24,741 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 14:10:56,448 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 14:10:56,509 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 14:10:56,531 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 14:18:00,548 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 14:18:00,611 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 14:18:00,629 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 14:18:03,543 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:21,047 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 14:19:21,108 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 14:19:21,124 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 14:19:23,781 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:31,199 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:33,556 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:42,185 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:48,702 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:51,770 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:54,615 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 14:19:57,225 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 15:13:45,740 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 15:13:45,782 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 15:13:45,793 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 15:13:47,762 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 15:13:49,862 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 15:16:07,818 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 15:16:07,865 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 15:16:07,877 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 15:16:09,302 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:02:42,592 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 16:02:42,635 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:02:42,649 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:02:44,983 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:03:56,540 [1] INFO RoundDBRepo - Exiting with Id: 6; Name: ZZZ
+2023-04-05 16:03:56,541 [1] INFO ScoreDBRepo - saving task Round: Id: 6; Name: ZZZ/ Participant: Jonathan Joestar/ Points: 1
+2023-04-05 16:03:56,556 [1] INFO ParticipantDBRepo - updating task Jonathan Joestar
+2023-04-05 16:03:56,559 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:03:59,640 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:03:59,641 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:04:03,047 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:19:20,240 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 16:19:20,283 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:19:20,294 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:19:24,205 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:19:28,399 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:19:33,843 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:19:42,947 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:21:37,163 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:21:39,882 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:21:43,383 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:24:33,886 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 16:24:33,926 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:24:33,937 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:24:35,915 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:24:38,737 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:24:40,560 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:24:42,080 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:24:46,929 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:24:58,443 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:24:58,444 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:25:01,587 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:25:05,824 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:25:11,270 [1] INFO RoundDBRepo - Exiting with Id: 6; Name: ZZZ
+2023-04-05 16:25:11,270 [1] INFO ScoreDBRepo - saving task Round: Id: 6; Name: ZZZ/ Participant: Mircea Eliade/ Points: 7
+2023-04-05 16:25:11,278 [1] INFO ParticipantDBRepo - updating task Mircea Eliade
+2023-04-05 16:25:11,279 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:25:14,132 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:25:14,132 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:26:42,426 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 16:26:42,466 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:26:42,477 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:26:48,580 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:26:49,862 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:26:49,863 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:26:51,595 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:26:55,528 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:27:02,350 [1] INFO RoundDBRepo - Exiting with Id: 6; Name: ZZZ
+2023-04-05 16:27:02,350 [1] INFO ScoreDBRepo - saving task Round: Id: 6; Name: ZZZ/ Participant: Ion al Glanetasului/ Points: 9
+2023-04-05 16:27:02,357 [1] INFO ParticipantDBRepo - updating task Ion al Glanetasului
+2023-04-05 16:27:03,681 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:27:04,870 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:27:04,871 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:27:07,084 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:28:24,603 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:28:45,360 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:28:58,673 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:28:58,673 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:29:02,619 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:29:09,952 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:29:09,953 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:29:12,482 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:32:12,836 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:32:20,754 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 16:32:20,755 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 16:34:00,710 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:34:03,130 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:34:04,814 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 16:34:06,090 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 18:00:45,918 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 18:00:45,989 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 18:00:46,016 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 18:00:54,289 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 18:04:16,426 [1] INFO UserDBRepo - Exiting with Id: 1; Username: arbitru1; Passowrd: arbitru1
+2023-04-05 18:04:16,474 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 18:04:16,491 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 18:04:22,684 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]
+2023-04-05 18:04:28,795 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 18:04:41,213 [1] INFO RoundDBRepo - saving task Id: 0; Name: RundaNoua
+2023-04-05 18:04:41,225 [1] INFO RoundDBRepo - Exiting with Id: 8; Name: RundaNoua
+2023-04-05 18:04:41,225 [1] INFO ScoreDBRepo - saving task Round: Id: 8; Name: RundaNoua/ Participant: Mircea Eliade/ Points: 10
+2023-04-05 18:04:41,230 [1] INFO ParticipantDBRepo - updating task Mircea Eliade
+2023-04-05 18:04:42,521 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 18:04:44,302 [1] INFO ParticipantDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Participant]
+2023-04-05 18:04:44,303 [1] INFO RoundDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Round]
+2023-04-05 18:04:51,776 [1] INFO ScoreDBRepo - Exiting with System.Collections.Generic.List`1[MPP_C_.domain.Score]

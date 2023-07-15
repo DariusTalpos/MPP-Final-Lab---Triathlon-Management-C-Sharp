@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tArMc3ws1i5+YYDMf/NnNO9SAc2odARGyGf4jUAoVHR+gtjsEsBhaGfLCJTcWNnpTecJcW+UxiO/rX4iMujHjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionClient\\CompetitionClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talpo\\.nuget\\packages\\google.protobuf\\3.23.0\\google.protobuf.3.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

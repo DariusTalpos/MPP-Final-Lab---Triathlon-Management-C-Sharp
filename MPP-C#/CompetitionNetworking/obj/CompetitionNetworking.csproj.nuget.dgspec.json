@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionNetworking\\CompetitionNetworking.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj",
+        "projectName": "CompetitionModel",
+        "projectPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj",
+        "packagesPath": "C:\\Users\\talpo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionNetworking\\CompetitionNetworking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionNetworking\\CompetitionNetworking.csproj",
+        "projectName": "CompetitionNetworking",
+        "projectPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionNetworking\\CompetitionNetworking.csproj",
+        "packagesPath": "C:\\Users\\talpo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionNetworking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj": {
+                "projectPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj"
+              },
+              "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionServices\\CompetitionServices.csproj": {
+                "projectPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionServices\\CompetitionServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.23.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionServices\\CompetitionServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionServices\\CompetitionServices.csproj",
+        "projectName": "CompetitionServices",
+        "projectPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionServices\\CompetitionServices.csproj",
+        "packagesPath": "C:\\Users\\talpo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\talpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj": {
+                "projectPath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\CompetitionModel\\CompetitionModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

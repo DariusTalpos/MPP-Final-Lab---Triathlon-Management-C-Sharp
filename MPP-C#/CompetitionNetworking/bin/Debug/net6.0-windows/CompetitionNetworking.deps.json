@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CompetitionNetworking/1.0.0": {
+        "dependencies": {
+          "CompetitionModel": "1.0.0",
+          "CompetitionServices": "1.0.0",
+          "Google.Protobuf": "3.23.0"
+        },
+        "runtime": {
+          "CompetitionNetworking.dll": {}
+        }
+      },
+      "Google.Protobuf/3.23.0": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.23.0.0",
+            "fileVersion": "3.23.0.0"
+          }
+        }
+      },
+      "CompetitionModel/1.0.0": {
+        "runtime": {
+          "CompetitionModel.dll": {}
+        }
+      },
+      "CompetitionServices/1.0.0": {
+        "dependencies": {
+          "CompetitionModel": "1.0.0"
+        },
+        "runtime": {
+          "CompetitionServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompetitionNetworking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.23.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sH4Jlv/vJQCqvYR9//Ia6RaDgG1HMTFlddBhSz5sbr9rQYYUuJ38SpOBv/m3mKkRfC6/ZdUtFQNczvAiYnIeqw==",
+      "path": "google.protobuf/3.23.0",
+      "hashPath": "google.protobuf.3.23.0.nupkg.sha512"
+    },
+    "CompetitionModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompetitionServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

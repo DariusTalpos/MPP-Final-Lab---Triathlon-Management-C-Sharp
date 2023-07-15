@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mzeRIdwgl3BqmolyGnS8Vr6jBmJkqq2PGKYhdy8a1nKuncAe/+Bn3Voq/sG1MPJReDURZICeL+uxYwcux4CuiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talpo\\Downloads\\mpp-proiect-csharp-DariusTalpos-client-server\\mpp-proiect-csharp-DariusTalpos-client-server\\MPP-C#\\ConnectionUtils\\ConnectionUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talpo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\talpo\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\talpo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
