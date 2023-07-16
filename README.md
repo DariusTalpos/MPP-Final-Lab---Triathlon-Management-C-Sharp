@@ -1,6 +1,6 @@
 # MPP Final Lab - Triathlon-Management (C# Version)
 
-Java version:
+Java version: https://github.com/DariusTalpos/MPP-Final-Lab---Triathlon-Management-Java
 
 EN: This application is the final version of the homework received at the "Projecting and Programming Methods" course at Babeș-Bolyai University.
 It is a client-server application that stores data using a PostgreSQL database, and has multiple functionalities:
